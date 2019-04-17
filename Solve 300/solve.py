@@ -13,7 +13,7 @@ def the(lies, that, you):
             your-=1
             are[love]+=that[love][Is]*ord(lies[Is])
     return are==you
-mine=input()
+#mine=input()
 For=open("flag.enc", "r")
 The=list(map(int,For.read().split(',')))
 For.close()
